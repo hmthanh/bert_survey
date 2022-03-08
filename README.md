@@ -1,5 +1,9 @@
-# BERT-related Papers
-This is a list of BERT-related papers. Any feedback is welcome.
+# BERT
+Bài báo chính: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+
+Bài báo survey: Pre-trained Models for Natural Language Processing: A Survey
+
+
 
 ## Table of Contents
 - [Survey paper](#survey-paper)
